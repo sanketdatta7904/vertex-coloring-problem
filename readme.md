@@ -1,6 +1,6 @@
 
-Goto DATTASUKAMOTO folder
-running command: python Exam-Sanket/main.py
+Goto main folder
+running command: python main.py
 packages used: time, multiprocessing, random
 
 Two types of testcases written
